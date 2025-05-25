@@ -31,12 +31,6 @@
 - Console modding and homebrew communities, especially those focused on the Atari Lynx, Sega Dreamcast, other retro platforms, and 6502 assembly projects.
 - Game preservation initiatives and projects.
 
-## 💬 Ask me about
-
-- Game development (especially with C, C++, 6502 assembly, and retro platforms like the Atari Lynx).
-- Hacking and modding classic game consoles.
-- Creating and publishing indie games for classic hardware.
-
 ## 🛠️ Languages & Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
