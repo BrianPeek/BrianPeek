@@ -15,6 +15,15 @@
 - Developing open source tools and libraries for hardware interfacing and game development.
 - Exploring custom controllers and unique gaming peripherals, often using C, C++, and 6502 assembly.
 
+## 🚀 Pinned Projects
+
+- [**EPROMEmu**](https://github.com/BrianPeek/EPROMEmu): A very simple, experimental (EP)ROM emulator built using a Teensy 4.1 and Arduino/PlatformIO, intended for retro hardware development and testing.
+- [**WiimoteLib**](https://github.com/BrianPeek/WiimoteLib): A .NET library enabling communication with and control of the Nintendo Wii Remote (Wiimote) for applications, games, and robotics.
+- [**ZMachineLib**](https://github.com/BrianPeek/ZMachineLib): An incomplete ZMachine interpreter written in C# for running interactive fiction and Infocom games.
+- [**Chomp**](https://github.com/BrianPeek/Chomp): A sample 2D maze game developed with MonoGame, demonstrating game development techniques in C#.
+- [**gg2img**](https://github.com/BrianPeek/gg2img): A tool to insert files built with Golden Gate into Apple II disk image files (.po), preserving resource information for Apple IIgs projects.
+- [**HttpRangeServer**](https://github.com/BrianPeek/HttpRangeServer): A quick HTTP server for mounting Apple II disk images on a PC, designed for use with an Apple IIgs and NetDisk.
+
 ## 👯 I’m looking to collaborate on
 
 - Fun and innovative game development projects.
