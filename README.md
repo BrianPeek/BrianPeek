@@ -1,4 +1,4 @@
-# Hi, I'm Brian Peek 👋
+# Hi, I'm Brian 👋
 
 ## 👨‍💻 About Me
 
