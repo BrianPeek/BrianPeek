@@ -65,6 +65,8 @@
 ![BrianPeek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrianPeek&show_icons=true&theme=dark&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianPeek&layout=compact&theme=dark&hide_title=true)
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=BrianPeek.BrianPeek)
+
 ---
 
 > *This profile README focuses on my passion for gaming, tools, classic consoles, and my work with Ganksoft. Want to chat about games or hardware? Reach out!*
