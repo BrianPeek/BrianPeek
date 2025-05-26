@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/BrianPeek.com-222222?style=flat" alt="BrianPeek.com" />
   </a>
 - <a href="https://www.ganksoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Ganksoft%20Entertainment-2ecc40?style=flat&labelColor=2ecc40&color=2ecc40&logoColor=black" alt="Ganksoft Entertainment" />
+    <img src="https://img.shields.io/badge/Ganksoft%20Entertainment-222222?style=flat" alt="Ganksoft Entertainment" />
   </a>
 - <a href="https://bsky.app/profile/bpeek.bsky.social" target="_blank">
     <img src="https://img.shields.io/badge/Bluesky-BrianPeek-0288d1?style=flat&logo=bluesky&logoColor=white" alt="Bluesky BrianPeek" />
