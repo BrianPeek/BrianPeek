@@ -47,17 +47,17 @@
 - <a href="https://brianpeek.com/" target="_blank">
     <img src="https://img.shields.io/badge/BrianPeek.com-222222?style=flat" alt="BrianPeek.com" />
   </a>
-- <a href="https://bsky.app/profile/bpeek.bsky.social" target="_blank">
-    <img src="https://img.shields.io/badge/Bluesky-BrianPeek-0288d1?style=flat&logo=bluesky&logoColor=white" alt="Bluesky BrianPeek" />
-  </a>
-- <a href="https://www.linkedin.com/in/brianpeek/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-brianpeek-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 - <a href="https://www.ganksoft.com/" target="_blank">
     <img src="https://img.shields.io/badge/Ganksoft%20Entertainment-222222?style=flat" alt="Ganksoft Entertainment" />
   </a>
+- <a href="https://bsky.app/profile/bpeek.bsky.social" target="_blank">
+    <img src="https://img.shields.io/badge/Bluesky-BrianPeek-0288d1?style=flat&logo=bluesky&logoColor=white" alt="Bluesky BrianPeek" />
+  </a>
 - <a href="https://bsky.app/profile/ganksoft.bsky.social" target="_blank">
     <img src="https://img.shields.io/badge/Bluesky-Ganksoft-0288d1?style=flat&logo=bluesky&logoColor=white" alt="Bluesky Ganksoft" />
+  </a>
+- <a href="https://www.linkedin.com/in/brianpeek/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-brianpeek-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
 ## 📈 GitHub Stats
