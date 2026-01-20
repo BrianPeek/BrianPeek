@@ -11,7 +11,7 @@
 ## ⭐ What I’m currently working on
 
 - Building and experimenting with homebrew projects for classic game consoles, with a special interest in the Atari Lynx and 6502 assembly programming.
-- Designing and publishing original retro-inspired games, such as [Grogger for Atari Lynx](https://ganksoft.com/products/grogger/).
+- Designing and publishing original retro-inspired games, such as [Grogger](https://ganksoft.com/products/grogger/) and [Hugger-Mugger](https://ganksoft.com/products/hugger-mugger) for the Atari Lynx.
 - Developing open source tools and libraries for hardware interfacing and game development.
 - Exploring custom controllers and unique gaming peripherals, often using C, C++, and 6502 assembly.
 
