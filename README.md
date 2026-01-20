@@ -35,8 +35,8 @@
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
-![6502 Assembly](https://img.shields.io/badge/6502%20Assembly-6E4C13?style=flat)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![6502 Assembly](https://img.shields.io/badge/6502%20Assembly-6E4C13?style=flat)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-1575A6?style=flat)
 ![SDL](https://img.shields.io/badge/SDL-07405E?style=flat&logo=SimpleIcons&logoColor=white)
