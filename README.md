@@ -17,6 +17,7 @@
 
 ## 🚀 Pinned Projects
 
+- [**Nanopad**](https://github.com/BrianPeek/Nanopad): A simple, portable Win32 text editor in the spirit of classic Windows Notepad.
 - [**EPROMEmu**](https://github.com/BrianPeek/EPROMEmu): A very simple, experimental (EP)ROM emulator built using a Teensy 4.1 and Arduino/PlatformIO, intended for retro hardware development and testing.
 - [**WiimoteLib**](https://github.com/BrianPeek/WiimoteLib): A .NET library enabling communication with and control of the Nintendo Wii Remote (Wiimote) for applications, games, and robotics.
 - [**ZMachineLib**](https://github.com/BrianPeek/ZMachineLib): An incomplete ZMachine interpreter written in C# for running interactive fiction and Infocom games.
