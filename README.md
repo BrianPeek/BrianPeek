@@ -52,9 +52,5 @@
 [![Bluesky Ganksoft](https://img.shields.io/badge/Bluesky-Ganksoft-0288d1?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/ganksoft.bsky.social)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-brianpeek-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianpeek/)
 
-## 📈 GitHub Stats
-
-![BrianPeek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrianPeek&show_icons=true&theme=dark&hide_title=true)
-
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=BrianPeek.BrianPeek)
 
