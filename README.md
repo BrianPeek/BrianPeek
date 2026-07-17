@@ -55,7 +55,6 @@
 ## 📈 GitHub Stats
 
 ![BrianPeek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrianPeek&show_icons=true&theme=dark&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianPeek&layout=compact&theme=dark&hide_title=true)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=BrianPeek.BrianPeek)
 
